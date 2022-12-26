@@ -34,7 +34,7 @@ export const message0: MessageType = {
     id: 0,
     user: {
         avatar: avatar1, // можно менять
-        name: 'Rustam',  // можно менять
+        name: 'Deadpool',  // можно менять
     },
     message: {
         text: 'I will be back!', // можно менять
@@ -49,7 +49,7 @@ export const friendMessage0: MessageType = {
     },
     message: {
         text: 'зеркальное сообщение для тренировки css', // можно менят
-        time: '00:00', // можно менять
+        time: '00:05', // можно менять
     },
 }
 
